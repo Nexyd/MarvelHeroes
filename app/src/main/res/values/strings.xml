@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarvelHeroes</string>
+    <string name="marvel_api_public_key">f50d565da33c7990abcd87ddc90a59a5</string>
+    <string name="marvel_api_private_key">b3d8ce70a5a89662714a6a0912f3bbeee9c541c4</string>
+
+    <string name="hero_content_description">Imagen del héroe.</string>
+    <string name="hero_name">Nombre: %1$s</string>
+    <string name="hero_comics_available">Cómics disponibles: %1$d</string>
+    <string name="hero_series_available">Series disponibles: %1$d</string>
+    <string name="hero_stories_available">Historias disponibles: %1$d</string>
+    <string name="hero_events_available">Eventos disponibles: %1$d</string>
+
+</resources>
